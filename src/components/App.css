@@ -38,18 +38,6 @@
 }
 
 .Nav {
-  padding: 20px;
-  font: 15px Arial, sans-serif;
-  color: #141414;
+  padding: 30px;
 }
-
-.menu-text{
-  color: #141414;
-}
-
-.banner{
-  align-items: center;
-  text-align: center;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
